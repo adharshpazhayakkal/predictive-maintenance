@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/predictive_maintenance/mlruns/0/60ccff98b0a34914a22c82d23d12b1f8/artifacts
+end_time: 1723449799872
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60ccff98b0a34914a22c82d23d12b1f8
+run_name: righteous-jay-798
+run_uuid: 60ccff98b0a34914a22c82d23d12b1f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723449794286
+status: 3
+tags: []
+user_id: Admin

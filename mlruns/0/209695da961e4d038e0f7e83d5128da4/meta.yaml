@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/predictive_maintenance/mlruns/0/209695da961e4d038e0f7e83d5128da4/artifacts
+end_time: 1723443593112
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 209695da961e4d038e0f7e83d5128da4
+run_name: crawling-colt-834
+run_uuid: 209695da961e4d038e0f7e83d5128da4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723443589492
+status: 3
+tags: []
+user_id: Admin

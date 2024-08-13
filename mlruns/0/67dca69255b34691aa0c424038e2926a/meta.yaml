@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/predictive_maintenance/mlruns/0/67dca69255b34691aa0c424038e2926a/artifacts
+end_time: 1723443975597
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67dca69255b34691aa0c424038e2926a
+run_name: likeable-moth-164
+run_uuid: 67dca69255b34691aa0c424038e2926a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723443970543
+status: 3
+tags: []
+user_id: Admin

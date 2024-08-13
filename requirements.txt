@@ -5,3 +5,5 @@ joblib
 pytest
 bentoml
 docker
+pytest
+imbalanced-learn

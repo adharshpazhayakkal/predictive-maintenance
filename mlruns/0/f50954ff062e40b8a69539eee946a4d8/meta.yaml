@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/predictive_maintenance/mlruns/0/f50954ff062e40b8a69539eee946a4d8/artifacts
+end_time: 1723443983208
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f50954ff062e40b8a69539eee946a4d8
+run_name: placid-bug-461
+run_uuid: f50954ff062e40b8a69539eee946a4d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723443979114
+status: 3
+tags: []
+user_id: Admin

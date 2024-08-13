@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/predictive_maintenance/mlruns/0/00c20aaca37d46eeade26702662fc9fb/artifacts
+end_time: 1723373725012
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00c20aaca37d46eeade26702662fc9fb
+run_name: nimble-asp-792
+run_uuid: 00c20aaca37d46eeade26702662fc9fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723373724779
+status: 4
+tags: []
+user_id: Admin

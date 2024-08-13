@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/predictive_maintenance/mlruns/0/f6960568acb84fcdb532b56bfd9b3ca3/artifacts
+end_time: 1723443522846
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6960568acb84fcdb532b56bfd9b3ca3
+run_name: clean-squirrel-200
+run_uuid: f6960568acb84fcdb532b56bfd9b3ca3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723443522545
+status: 4
+tags: []
+user_id: Admin

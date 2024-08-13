@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/predictive_maintenance/mlruns/0/65a9e4168b07417b8c1ec1155ec7738d/artifacts
+end_time: 1723375485551
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65a9e4168b07417b8c1ec1155ec7738d
+run_name: amusing-frog-997
+run_uuid: 65a9e4168b07417b8c1ec1155ec7738d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723375485396
+status: 4
+tags: []
+user_id: Admin

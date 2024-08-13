@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/predictive_maintenance/mlruns/0/ec704b23fb2644a1ac67e2ce0bbdc6a4/artifacts
+end_time: 1723375528642
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec704b23fb2644a1ac67e2ce0bbdc6a4
+run_name: serious-shoat-951
+run_uuid: ec704b23fb2644a1ac67e2ce0bbdc6a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723375528421
+status: 4
+tags: []
+user_id: Admin

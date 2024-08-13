@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/predictive_maintenance/mlruns/0/5e713a593dae47f7b182adee0856460a/artifacts
+end_time: 1723449794278
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e713a593dae47f7b182adee0856460a
+run_name: gaudy-shrike-138
+run_uuid: 5e713a593dae47f7b182adee0856460a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723449790459
+status: 3
+tags: []
+user_id: Admin

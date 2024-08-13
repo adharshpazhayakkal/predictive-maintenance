@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/predictive_maintenance/mlruns/0/8ee222c43df544ffb2ecc90d2f700685/artifacts
+end_time: 1723446700082
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ee222c43df544ffb2ecc90d2f700685
+run_name: clumsy-eel-395
+run_uuid: 8ee222c43df544ffb2ecc90d2f700685
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723446694715
+status: 3
+tags: []
+user_id: Admin

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/predictive_maintenance/mlruns/0/345831b896b04f938fd3fae2488631e7/artifacts
+end_time: 1723443597320
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 345831b896b04f938fd3fae2488631e7
+run_name: kindly-steed-1
+run_uuid: 345831b896b04f938fd3fae2488631e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723443593135
+status: 3
+tags: []
+user_id: Admin

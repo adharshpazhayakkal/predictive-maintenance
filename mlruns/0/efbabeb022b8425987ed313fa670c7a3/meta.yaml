@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/predictive_maintenance/mlruns/0/efbabeb022b8425987ed313fa670c7a3/artifacts
+end_time: 1723443927642
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efbabeb022b8425987ed313fa670c7a3
+run_name: lyrical-sow-362
+run_uuid: efbabeb022b8425987ed313fa670c7a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723443927200
+status: 4
+tags: []
+user_id: Admin

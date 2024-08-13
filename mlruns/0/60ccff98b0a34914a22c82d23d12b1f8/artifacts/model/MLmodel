@@ -1,0 +1,28 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+mlflow_version: 2.15.1
+model_size_bytes: 8920627
+model_uuid: 0cc5321dd372416685f7efc8fef28477
+run_id: 60ccff98b0a34914a22c82d23d12b1f8
+signature:
+  inputs: '[{"type": "long", "name": "Type", "required": true}, {"type": "double",
+    "name": "Air temperature [K]", "required": true}, {"type": "double", "name": "Process
+    temperature [K]", "required": true}, {"type": "long", "name": "Rotational speed
+    [rpm]", "required": true}, {"type": "double", "name": "Torque [Nm]", "required":
+    true}, {"type": "long", "name": "Tool wear [min]", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2024-08-12 08:03:16.143110'

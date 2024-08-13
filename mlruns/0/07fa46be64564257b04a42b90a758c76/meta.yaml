@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/predictive_maintenance/mlruns/0/07fa46be64564257b04a42b90a758c76/artifacts
+end_time: 1723443222616
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07fa46be64564257b04a42b90a758c76
+run_name: brawny-skunk-184
+run_uuid: 07fa46be64564257b04a42b90a758c76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723443210213
+status: 4
+tags: []
+user_id: Admin
